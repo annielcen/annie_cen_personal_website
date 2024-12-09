@@ -2,22 +2,64 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "Hi, I’m Annie Cen, a 4th year student at UCLA passionate about [Your Interests]. I’m currently studying at [Your Institution] and exploring projects in [Fields of Interest]."
+    "text": "Hello! My name is Annie Cen, and I’m a Statistics and Data Science student at UCLA, graduating in 2025. I have a strong passion for solving complex problems through data analysis and making data-driven decisions.\nOver the years, I’ve worked on diverse projects ranging from:\n- Analyzing PFAS, PHTHTE, and heavy metals data: Conducting exploratory trends and correlation analysis.\n- Exploring vision-language models: Working with Florence-2 for anomaly detection.\n- Building statistical consulting solutions: Applying optimization models to solve practical problems.\nWhen I’m not working with data, I enjoy:\n- Music: Practicing DJing and music production.\n- Exploring AI technologies: Image recognition, sentiment analysis, and anomaly detection.\n- Leadership: Serving as the President of Theta Tau, a professional engineering organization.\nFeel free to explore my projects to learn more about my work and interests!"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
-    "title": "personal-website",
+    "title": "Projects",
     "section": "",
-    "text": "title: “Projects”\n\nafahkdfsauftduatsfu"
+    "text": "Welcome to my projects page! Below are some of the exciting projects I’ve worked on :)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Annie Cen, a UCLA Statistics and Data Science student graduating in 2025. This website is a showcase of my journey as a problem-solver and data enthusiast!\nI’m passionate about:\n- Using data to uncover insights and make informed decisions.\n- Exploring cutting-edge technologies like AI and machine learning.\n- Applying statistics to solve real-world challenges.\nOn this site, you’ll find:\n- About Me: Learn about my background and interests.\n- Projects: Discover some of my favorite projects and experiences."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Home",
+    "section": "Connect With Me",
+    "text": "Connect With Me\nYou can find me online here:\n- GitHub\n- LinkedIn\n- Email Me\nThank you for visiting! Feel free to connect with me or explore my work further. 😊"
+  },
+  {
+    "objectID": "Projects.html#pfas-phthte-and-heavy-metals-analysis---university-of-north-carolina-charlotte",
+    "href": "Projects.html#pfas-phthte-and-heavy-metals-analysis---university-of-north-carolina-charlotte",
+    "title": "Projects",
+    "section": "1. PFAS, PHTHTE, and Heavy Metals Analysis - University of North Carolina, Charlotte",
+    "text": "1. PFAS, PHTHTE, and Heavy Metals Analysis - University of North Carolina, Charlotte\n\nDescription: Conducted exploratory data analysis on PFAS, PHTHTE, and heavy metals data from 1999–2018. Identified trends, correlations, and patterns over time with final goal of creating dashboard.\nTools Used: Python, Pandas, Matplotlib, seasborn, HTML\nHighlights:\n\nCleaned and preprocessed data from multiple years.\n\nVisualized distributions and created heatmaps of correlations.\n\nStratified data by demographics (e.g., gender and age).\n\nUtlized HTML to create foundational structure of dashboard."
+  },
+  {
+    "objectID": "Projects.html#florence-2-vision-language-model-for-anomaly-detection",
+    "href": "Projects.html#florence-2-vision-language-model-for-anomaly-detection",
+    "title": "Projects",
+    "section": "2. Florence-2 Vision-Language Model for Anomaly Detection",
+    "text": "2. Florence-2 Vision-Language Model for Anomaly Detection\n\nDescription: Worked on training the Florence-2 vision-language model for detecting anomalies in public spaces.\nTools Used: PyTorch, Hugging Face, TensorRT\nHighlights:\n\nFine-tuned the pre-trained model for specific tasks.\nImplemented visual grounding, object detection, and segmentation.\nResearched techniques to distinguish normal vs. anomalous events.\n\nRead More (Optional)"
+  },
+  {
+    "objectID": "Projects.html#sentiment-analysis-for-book-reviews",
+    "href": "Projects.html#sentiment-analysis-for-book-reviews",
+    "title": "Projects",
+    "section": "3. Sentiment Analysis for Book Reviews",
+    "text": "3. Sentiment Analysis for Book Reviews\n\nDescription: Built and evaluated machine learning models to classify sentiment in book reviews. Explored various algorithms to improve prediction accuracy.\nTools Used: Python, Scikit-Learn, Random Forest, Logistic Regression\nHighlights:\n\nAchieved highest accuracy with logistic regression.\n\nPerformed feature engineering to improve model performance.\n\n\nExplore Results"
+  },
+  {
+    "objectID": "Projects.html#florence-2-vision-language-model-for-weapon-detection",
+    "href": "Projects.html#florence-2-vision-language-model-for-weapon-detection",
+    "title": "Projects",
+    "section": "2. Florence-2 Vision-Language Model for Weapon Detection",
+    "text": "2. Florence-2 Vision-Language Model for Weapon Detection\n\nDescription: Worked on training the Florence-2 vision-language model for detecting weapons in public spaces.\nTools Used: PyTorch, Hugging Face, Florence-2\nHighlights:\n\nFine-tuned the pre-trained model for specific tasks.\n\nImplemented visual grounding, object detection, and segmentation.\n\nResearched LoRA technique.\n\n\nRead More"
+  },
+  {
+    "objectID": "Projects.html#battleship-in-r",
+    "href": "Projects.html#battleship-in-r",
+    "title": "Projects",
+    "section": "4. Battleship in R",
+    "text": "4. Battleship in R\n\nDescription: Developed an interactive implementation of the Battleship game using R. This project combines game logic with statistical insights.\nTools Used: R, ggplot2\nHighlights:\n\nDesigned an interactive game board with randomized ship placement.\n\nImplemented user input validation and game logic.\n\nVisualized gameplay progress using dynamic plots.\n\nImplemented a Smart Player encoded with density probability function for best performance.\n\n\nView Code\n\n\nFeel free to explore these projects and reach out if you’d like to collaborate or learn more!"
   }
 ]

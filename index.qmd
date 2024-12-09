@@ -2,10 +2,26 @@
 title: "Home"
 ---
 
-This is a Quarto website.
+### Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m **Annie Cen**, a UCLA Statistics and Data Science student graduating in 2025. This website is a showcase of my journey as a problem-solver and data enthusiast!
 
-```{r}
-1 + 1
-```
+I’m passionate about:    
+- Using data to uncover insights and make informed decisions.    
+- Exploring cutting-edge technologies like AI and machine learning.    
+- Applying statistics to solve real-world challenges.    
+
+On this site, you’ll find:    
+- [About Me](about.qmd): Learn about my background and interests.    
+- [Projects](projects.qmd): Discover some of my favorite projects and experiences.      
+
+---
+
+## Connect With Me
+
+You can find me online here:   
+- [GitHub](https://github.com/annielcen)      
+- [LinkedIn](https://www.linkedin.com/in/annie-cen-5b5055257/)     
+- [Email Me](mailto:annielcen@gmail.com)      
+
+Thank you for visiting! Feel free to connect with me or explore my work further. 😊

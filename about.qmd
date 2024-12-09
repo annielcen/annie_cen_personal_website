@@ -1,6 +1,19 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
+![](images/profile.png){fig-align="center"}
 
-Hi, I'm Annie Cen, a 4th year student at UCLA passionate about [Your Interests]. I'm currently studying at [Your Institution] and exploring projects in [Fields of Interest].
+Hello! My name is Annie Cen, and I’m a Statistics and Data Science student at UCLA, graduating in 2025. I have a strong passion for solving complex problems through data analysis and making data-driven decisions. 
+
+Over the years, I’ve worked on diverse projects ranging from:  
+- **Analyzing PFAS, PHTHTE, and heavy metals data**: Conducting exploratory trends and correlation analysis.  
+- **Exploring vision-language models**: Working with Florence-2 for anomaly detection.  
+- **Building statistical consulting solutions**: Applying optimization models to solve practical problems.  
+
+When I’m not working with data, I enjoy:  
+- **Music**: Practicing DJing and music production.    
+- **Exploring AI technologies**: Image recognition, sentiment analysis, and anomaly detection.  
+- **Leadership**: Serving as the President of Theta Tau, a professional engineering organization.  
+
+Feel free to explore my [projects](Projects.qmd) to learn more about my work and interests!
