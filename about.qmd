@@ -2,7 +2,8 @@
 title: "About Me"
 ---
 
-![](images/profile.png){fig-align="center"}
+![Profile Picture](images/profile.png){fig-align="center" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 2px solid #ccc;"}
+
 
 Hello! My name is Annie Cen, and I’m a Statistics and Data Science student at UCLA, graduating in 2025. I have a strong passion for solving complex problems through data analysis and making data-driven decisions. 
 
