@@ -1,6 +1,6 @@
 ---
-title: "About Me"
+title: "About"
 ---
-# About Me
+
 
 Hi, I'm Annie Cen, a 4th year student at UCLA passionate about [Your Interests]. I'm currently studying at [Your Institution] and exploring projects in [Fields of Interest].

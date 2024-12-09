@@ -4,14 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Annie Cen",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Annie Cen, a 4th year student at UCLA passionate about [Your Interests]. I’m currently studying at [Your Institution] and exploring projects in [Fields of Interest]."
   },
   {
     "objectID": "Projects.html",
@@ -19,5 +12,12 @@
     "title": "personal-website",
     "section": "",
     "text": "title: “Projects”\n\nafahkdfsauftduatsfu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
